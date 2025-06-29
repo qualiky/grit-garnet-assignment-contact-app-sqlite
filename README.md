@@ -1,16 +1,12 @@
-# contactapp
+# Contact App with SQLite
 
-A new Flutter project.
+This is a demo contact app created with SQLite for your assignment purposes. Please refer to the usage of SQFlite for CRUD operations on the contact data.
 
-## Getting Started
+Based on this, you need to create your own contact app. Just make sure you don't submit me this exact app as your assignment.
 
-This project is a starting point for a Flutter application.
+Good luck!
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Email me at [this address](sandeep.gautam@apexcollege.edu.np) for any assistance.
+Happy coding!
