@@ -8,5 +8,5 @@ Good luck!
 
 ---
 
-Email me at [this address](sandeep.gautam@apexcollege.edu.np) for any assistance.
+Email me at [this address](mailto:sandeep.gautam@apexcollege.edu.np) for any assistance.
 Happy coding!
